@@ -9,7 +9,7 @@ Public Class Form1
 
         ' Check if the connection can be opened
         If connection.State = ConnectionState.Open Then
-            ' Connection is established, display message in label
+            ' if the connection is made correctly , display message in label
             Label1.Text = "Hello! Welcome back"
         Else
             Label1.Text = "Not connected "
@@ -56,7 +56,7 @@ Public Class Form1
         Dim connection As New MySqlConnection(connectionString)
 
         Try
-            ' Open the connection
+            
             connection.Open()
 
             ' Define the query to retrieve data from the book_info table
@@ -99,7 +99,7 @@ Public Class Form1
             MessageBox.Show("An error occurred while connecting to the database: " & ex.Message, "Database Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
 
         Finally
-            ' Close the connection
+            ' Close the connection if needed not required 
             connection.Close()
         End Try
     End Sub
