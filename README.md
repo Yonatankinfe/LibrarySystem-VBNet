@@ -10,9 +10,9 @@ This project demonstrates how to create a book management system with features f
 
 # Admin Features
 
-📖 Add Books: Admins can add new books to the library, including details like title, author, genre, and availability.
++ 📖 Add Books: Admins can add new books to the library, including details like title, author, genre, and availability.
 
-❌ Remove Books: Admins can remove books from the library database.
++ ❌ Remove Books: Admins can remove books from the library database.
 
 🔄 Manage Rentals: Admins can manage book rentals, including checking out and returning books.
 
