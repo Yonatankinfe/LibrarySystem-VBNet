@@ -11,23 +11,33 @@ This project demonstrates how to create a book management system with features f
 - Manage Rentals: Admins can manage book rentals, including checking out and returning books.
 - User Management: Admins can view and manage user accounts.
 
-### User Features
-- Signup/Login: Users can create new accounts or log in to existing ones.
-- View Books: Users can browse the library's collection of books.
-- Rent Books: Users can rent available books and view their rental history.
+User Features
 
-### Database
-- MySQL: The application uses MySQL to store and manage data, ensuring reliability and scalability.
+🔐 Signup/Login: Users can create new accounts or log in to existing ones.
 
+📚 View Books: Users can browse the library's collection of books.
 
-### Frontend
-- Windows Forms: The user interface is built using Windows Forms, providing a user-friendly experience.
+📅 Rent Books: Users can rent available books and view their rental history.
 
 
-### Getting Started
-- Visual Studio (2019 or later)
-- MySQL Server
-### Some images Showcasting the software 
+Database
+
+🗄️ MySQL: The application uses MySQL to store and manage data, ensuring reliability and scalability.
+
+
+Frontend
+
+🖥️ Windows Forms: The user interface is built using Windows Forms, providing a user-friendly experience.
+
+
+Getting Started
+
+💻 Visual Studio (2019 or later)
+
+🛠️ MySQL Server
+
+
+Some images showcasing the software 📸
 
 ![Screenshot 2024-06-02 200929](https://github.com/Yonatankinfe/LibrarySystem-VBNet/assets/158090444/94c4db00-d94e-4fd0-b4ba-15130c614737)
 ![Screenshot 2024-06-02 201101](https://github.com/Yonatankinfe/LibrarySystem-VBNet/assets/158090444/2f34f646-0980-445c-82f3-d91329ab1bfb)
