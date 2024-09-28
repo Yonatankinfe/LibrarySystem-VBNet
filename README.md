@@ -1,17 +1,24 @@
-# LIBRARYSYSTEM-VBNet
+# LIBRARYSYSTEM-VBNet 📚💻
 
-## Introduction
-**Welcome to the VBNetBookManager project! This repository contains code and resources for building a comprehensive book management system using VB.NET and Visual Studio. The software includes a user portal and an admin page, facilitating the management and rental of books. With a MySQL database backend, the application ensures robust and reliable data handling. Both the admin and user interfaces are designed to be intuitive and visually appealing.
+# Introduction
 
-## Project Overview
-This project demonstrates how to create a book management system with features for both administrators and users. The steps include setting up the database, implementing the user and admin functionalities, and ensuring secure authentication for both roles. Here’s a brief overview of what the code does:
-### Admin Features
-- Add Books: Admins can add new books to the library, including details like title, author, genre, and availability.
-- Remove Books: Admins can remove books from the library database.
-- Manage Rentals: Admins can manage book rentals, including checking out and returning books.
-- User Management: Admins can view and manage user accounts.
+Welcome to the VBNetBookManager project! 🎉 This repository contains code and resources for building a comprehensive book management system using VB.NET and Visual Studio. The software includes a user portal 👤 and an admin page 🛠️, facilitating the management and rental of books. With a MySQL database backend, the application ensures robust and reliable data handling. Both the admin and user interfaces are designed to be intuitive and visually appealing. 🎨
 
-User Features
+# Project Overview
+
+This project demonstrates how to create a book management system with features for both administrators 👨‍💼 and users 🙋‍♀️. The steps include setting up the database, implementing the user and admin functionalities, and ensuring secure authentication 🔐 for both roles. Here’s a brief overview of what the code does:
+
+# Admin Features
+
+📖 Add Books: Admins can add new books to the library, including details like title, author, genre, and availability.
+
+❌ Remove Books: Admins can remove books from the library database.
+
+🔄 Manage Rentals: Admins can manage book rentals, including checking out and returning books.
+
+👥 User Management: Admins can view and manage user accounts.
+
+# User Features
 
 🔐 Signup/Login: Users can create new accounts or log in to existing ones.
 
@@ -20,24 +27,24 @@ User Features
 📅 Rent Books: Users can rent available books and view their rental history.
 
 
-Database
+# Database
 
 🗄️ MySQL: The application uses MySQL to store and manage data, ensuring reliability and scalability.
 
 
-Frontend
+# Frontend
 
 🖥️ Windows Forms: The user interface is built using Windows Forms, providing a user-friendly experience.
 
 
-Getting Started
+# Getting Started
 
 💻 Visual Studio (2019 or later)
 
 🛠️ MySQL Server
 
 
-Some images showcasing the software 📸
+# Some images showcasing the software 📸
 
 ![Screenshot 2024-06-02 200929](https://github.com/Yonatankinfe/LibrarySystem-VBNet/assets/158090444/94c4db00-d94e-4fd0-b4ba-15130c614737)
 ![Screenshot 2024-06-02 201101](https://github.com/Yonatankinfe/LibrarySystem-VBNet/assets/158090444/2f34f646-0980-445c-82f3-d91329ab1bfb)
