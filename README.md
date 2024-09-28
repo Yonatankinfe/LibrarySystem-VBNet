@@ -14,34 +14,34 @@ This project demonstrates how to create a book management system with features f
 
 + ❌ Remove Books: Admins can remove books from the library database.
 
-🔄 Manage Rentals: Admins can manage book rentals, including checking out and returning books.
++ 🔄 Manage Rentals: Admins can manage book rentals, including checking out and returning books.
 
-👥 User Management: Admins can view and manage user accounts.
++ 👥 User Management: Admins can view and manage user accounts.
 
 # User Features
 
-🔐 Signup/Login: Users can create new accounts or log in to existing ones.
++ 🔐 Signup/Login: Users can create new accounts or log in to existing ones.
 
-📚 View Books: Users can browse the library's collection of books.
++ 📚 View Books: Users can browse the library's collection of books.
 
-📅 Rent Books: Users can rent available books and view their rental history.
++ 📅 Rent Books: Users can rent available books and view their rental history.
 
 
 # Database
 
-🗄️ MySQL: The application uses MySQL to store and manage data, ensuring reliability and scalability.
++ 🗄️ MySQL: The application uses MySQL to store and manage data, ensuring reliability and scalability.
 
 
 # Frontend
 
-🖥️ Windows Forms: The user interface is built using Windows Forms, providing a user-friendly experience.
++ 🖥️ Windows Forms: The user interface is built using Windows Forms, providing a user-friendly experience.
 
 
 # Getting Started
 
-💻 Visual Studio (2019 or later)
++ 💻 Visual Studio (2019 or later)
 
-🛠️ MySQL Server
++ 🛠️ MySQL Server
 
 
 # Some images showcasing the software 📸
